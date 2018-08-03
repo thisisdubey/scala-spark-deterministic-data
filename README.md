@@ -1,6 +1,6 @@
 # Description
 
-Create a deterministic code to generate a new DataFrame with exactly one row for each distinct "key" and the most common "value" for the corresponding key. A sample input with a valid output can be found below.
+A deterministic code to generate a new DataFrame with exactly one row for each distinct "key" and the most common "value" for the corresponding key. A sample input with a valid output can be found below.
 
 
 
